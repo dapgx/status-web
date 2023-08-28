@@ -1,0 +1,11 @@
+{
+  "name": "main-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "start": "json-server --watch ./db/index.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
